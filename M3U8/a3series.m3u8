@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_A3Series",NAME="Spanish",LANGUAGE="spa",DEFAULT=YES,AUTOSELECT=YES,URI="https://atres-live.atresmedia.com/1e5c519c6c533c6a4166cbacd1a0a709f137a470_ES_1734546230_1734574970/h264/live/a3series/audio_1.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",AUDIO="audio_A3Series"
+https://atres-live.atresmedia.com/1e5c519c6c533c6a4166cbacd1a0a709f137a470_ES_1734546230_1734574970/h264/live/a3series/bitrate_3.m3u8
