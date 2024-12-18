@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_antena3",NAME="Spanish",LANGUAGE="spa",DEFAULT=YES,AUTOSELECT=YES,URI="https://atres-live.atresmedia.com/bc8be09985ac604266734340dce1db752623da22_ES_1734545948_1734574688/h264/live/antena3/audio_1.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",AUDIO="audio_antena3"
+https://atres-live.atresmedia.com/bc8be09985ac604266734340dce1db752623da22_ES_1734545948_1734574688/h264/live/antena3/bitrate_3.m3u8
