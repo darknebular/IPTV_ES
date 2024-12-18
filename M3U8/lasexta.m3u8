@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_lasexta",NAME="Spanish",LANGUAGE="spa",DEFAULT=YES,AUTOSELECT=YES,URI="https://atres-live.atresmedia.com/dd4c14418925097b240d4a3401aed2ef8c3d5ceb_ES_1734545438_1734574178/h264/live/lasexta/audio_1.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",AUDIO="audio_lasexta"
+https://atres-live.atresmedia.com/dd4c14418925097b240d4a3401aed2ef8c3d5ceb_ES_1734545438_1734574178/h264/live/lasexta/bitrate_3.m3u8
