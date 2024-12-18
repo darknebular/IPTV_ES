@@ -761,4 +761,4 @@ http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:0,ANTENA 3 HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png" group-title="General",Antena 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:0,MEGA tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="Entertainment",MEGA
-https://atres-live.atresmedia.com/a77006eb5588fc6c516d4dfef3551920e56a345a_ES_1734528224_1734556964/h264/live/mega/audio_1.m3u8
+https://livestartover-i.akamaized.net/geomega/master.m3u8
