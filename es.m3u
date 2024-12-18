@@ -757,7 +757,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
 #EXTINF:0 tvg-id="OCHO TV" tvg-logo="https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg" group-title="General",Ocho TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:0 tvg-id="ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png" group-title="General",Antena 3 HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/antena3.m3u8
 #EXTINF:0 tvg-id="MEGA" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="Entertainment",MEGA
 https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/mega.m3u8
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Entertainment",NEOX
