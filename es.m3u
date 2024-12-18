@@ -762,3 +762,5 @@ http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:0,MEGA tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="Entertainment",MEGA
 https://livestartover-i.akamaized.net/geomega/master.m3u8
+#EXTINF:0,NEOX tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Entertainment",NEOX
+https://atres-live.atresmedia.com/b7aa425858f28459dd3f18bd4a3095f62d64f523_ES_1734533458_1734562198/h264/live/neox/bitrate_3.m3u8
