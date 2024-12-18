@@ -762,4 +762,4 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/anten
 https://livestartover-i.akamaized.net/geomega/master.m3u8
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Entertainment",NEOX
 https://atres-live.atresmedia.com/b7aa425858f28459dd3f18bd4a3095f62d64f523_ES_1734533458_1734562198/h264/live/neox/bitrate_3.m3u8
-https://atres-live.atresmedia.com/b7aa425858f28459dd3f18bd4a3095f62d64f523_ES_1734533458_1734562198/h264/live/neox/audio_1.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="es",NAME="Castellano",AUTOSELECT=YES, DEFAULT=YES,URI="https://atres-live.atresmedia.com/b7aa425858f28459dd3f18bd4a3095f62d64f523_ES_1734533458_1734562198/h264/live/neox/audio_1.m3u8"
