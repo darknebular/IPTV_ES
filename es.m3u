@@ -754,14 +754,12 @@ https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 tvg-id="ZafraTV.es" tvg-logo="https://i.ibb.co/BChc6HR/1293583425.jpg" group-title="General",Zafra TV (1080p)
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Undefined",НТВ Мир
-http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:0,OCHO TVtvg-logo="https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg" group-title="General",Ocho TV
+#EXTINF:0 tvg-id="OCHO TV" tvg-logo="https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg" group-title="General",Ocho TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:0,ANTENA 3 HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png" group-title="General",Antena 3 HD
+#EXTINF:0 tvg-id="ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png" group-title="General",Antena 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:0,MEGA tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="Entertainment",MEGA
+#EXTINF:0 tvg-id="MEGA" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="Entertainment",MEGA
 https://livestartover-i.akamaized.net/geomega/master.m3u8
-#EXTINF:0,NEOX tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Entertainment",NEOX
+#EXTINF:-1 tvg-id="NEOX" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Entertainment",NEOX
 https://atres-live.atresmedia.com/b7aa425858f28459dd3f18bd4a3095f62d64f523_ES_1734533458_1734562198/h264/live/neox/bitrate_3.m3u8
 https://atres-live.atresmedia.com/b7aa425858f28459dd3f18bd4a3095f62d64f523_ES_1734533458_1734562198/h264/live/neox/audio_1.m3u8
