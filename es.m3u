@@ -762,3 +762,5 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/anten
 https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/mega.m3u8
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Entertainment",NEOX
 https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/neox.m3u8
+#EXTINF:-1 tvg-id="NOVA" tvg-logo="https://fotografias-nova.atresmedia.com/clipping/cmsimages02/2022/07/06/EE5C7DB5-20CD-4213-A788-80ED388F4250/nova_96.jpg?crop=1920,1080,x0,y0&width=1200&height=675&optimize=low&format=jpg" group-title="Entertainment",NOVA
+https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/nova.m3u8
