@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_nova",NAME="Spanish",LANGUAGE="spa",DEFAULT=YES,AUTOSELECT=YES,URI="https://atres-live.atresmedia.com/530819e2b1b13b9cca88b17762f7a3fc4fc24e63_ES_1734544985_1734573725/h264/live/nova/audio_1.m3u8"
+
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1280x720,CODECS="avc1.4d401f,mp4a.40.2",AUDIO="audio_nova"
+https://atres-live.atresmedia.com/530819e2b1b13b9cca88b17762f7a3fc4fc24e63_ES_1734544985_1734573725/h264/live/nova/bitrate_3.m3u8
