@@ -763,4 +763,4 @@ https://atres-live.atresmedia.com/c3f225298df06c6c33c4d62d5c30b552e09c0e20_ES_17
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Entertainment",NEOX
 https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/neox.m3u8
 #EXTINF:-1 tvg-id="NOVA" tvg-logo="https://fotografias-nova.atresmedia.com/clipping/cmsimages02/2022/07/06/EE5C7DB5-20CD-4213-A788-80ED388F4250/nova_96.jpg?crop=1920,1080,x0,y0&width=1200&height=675&optimize=low&format=jpg" group-title="Entertainment",NOVA
-https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/nova.m3u8
+https://atres-live.atresmedia.com/77fc0a7b4464f65722710b59b6ec204db094e6a1_ES_1734610982_1734639722/h264/live/nova/master.m3u8
