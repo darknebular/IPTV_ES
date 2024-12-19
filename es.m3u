@@ -72,7 +72,7 @@ https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
 #EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="General",Aragón TV (720p) [Not 24/7]
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png" group-title="Series",Atreseries (720p)
-https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/a3series.m3u8
+https://atres-live.atresmedia.com/73227bf5bf662b6a357a944599ac6ca06447c0ff_ES_1734611541_1734640281/h264/live/a3series/master.m3u8
 #EXTINF:-1 tvg-id="Flooxer.TV" tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",Flooxer TV
 https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285/1.m3u8
 #EXTINF:-1 tvg-id="A3P_Clasicos.TV" tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
@@ -387,7 +387,7 @@ https://mejorestrucos.com:5443/LiveApp/streams/854077030689510682594068.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-logo="https://i.imgur.com/tK9zOgo.png" group-title="Series",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-logo="https://i.imgur.com/aKV5voq.png" group-title="Entertainment",La Sexta (1080p)
-https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/lasexta.m3u8
+https://atres-live.atresmedia.com/ec6d4edfe2cbc7fa564a4db74a100a95ee433b90_ES_1734611264_1734640004/h264/live/lasexta/master.m3u8
 #EXTINF:-1 tvg-id="LaUrbanTV.es" tvg-logo="https://i.imgur.com/hythjEn.png" group-title="Music",La Urban TV (1080p) [Not 24/7]
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" tvg-logo="https://i.imgur.com/RlzVIJP.png" group-title="General",Lancelot TV (404p)
@@ -757,10 +757,10 @@ https://cloud.fastchannel.es/mic/manifiest/hls/radiotvzafra/radiotvzafra.m3u8
 #EXTINF:0 tvg-id="OCHO TV" tvg-logo="https://8madrid.tv/wp-content/uploads/2021/10/LOGO-8madrid-NUESTRO-CINE_WEB.jpg" group-title="General",Ocho TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 #EXTINF:0 tvg-id="ANTENA 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1280px-Antena_3_%282017%29.svg.png" group-title="General",Antena 3 HD
-https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/antena3.m3u8
+https://atres-live.atresmedia.com/5aafb03807b0b71bbc54b33446e2ae8ec9e19a64_ES_1734611412_1734640152/h264/live/antena3/master.m3u8
 #EXTINF:0 tvg-id="MEGA" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="Entertainment",MEGA
 https://atres-live.atresmedia.com/c3f225298df06c6c33c4d62d5c30b552e09c0e20_ES_1734610797_1734639537/h264/live/mega/master.m3u8
 #EXTINF:-1 tvg-id="NEOX" tvg-logo="https://brandemia.org/contenido/subidas/2014/03/neox_principal_logo.jpg" group-title="Entertainment",NEOX
-https://github.com/darknebular/IPTV_ES/raw/refs/heads/main/M3U8/neox.m3u8
+https://atres-live.atresmedia.com/2b9a18a0eb7aee962c4ad88710bfebf3be9b7fce_ES_1734611113_1734639853/h264/live/neox/master.m3u8
 #EXTINF:-1 tvg-id="NOVA" tvg-logo="https://fotografias-nova.atresmedia.com/clipping/cmsimages02/2022/07/06/EE5C7DB5-20CD-4213-A788-80ED388F4250/nova_96.jpg?crop=1920,1080,x0,y0&width=1200&height=675&optimize=low&format=jpg" group-title="Entertainment",NOVA
 https://atres-live.atresmedia.com/77fc0a7b4464f65722710b59b6ec204db094e6a1_ES_1734610982_1734639722/h264/live/nova/master.m3u8
